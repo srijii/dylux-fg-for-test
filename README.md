@@ -20,7 +20,7 @@
 - Change the owner number in [Config](https://github.com/FG98F/dylux-fg/blob/main/config.js#L6)
 - You can update to the latest version of Baileys by editing the package.json in [this section](https://github.com/FG98F/dylux-fg/blob/main/package.json#L42)
 
-### FREE API KEY
+### FREE API KEY:
 - [Click here](https://api-fgmods.ddns.net)
 
 ### Example
